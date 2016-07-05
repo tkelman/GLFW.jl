@@ -1,5 +1,5 @@
 # version of library to download
-const version = v"3.2"
+const version = "3.2"
 const glfw = "glfw-$version"
 
 # TODO: if the latest version is already installed, don't bother with any of this
